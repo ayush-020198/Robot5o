@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robot5o/static/css/main.28a3a540.chunk.css",
+    "main.js": "/Robot5o/static/js/main.69d96883.chunk.js",
+    "main.js.map": "/Robot5o/static/js/main.69d96883.chunk.js.map",
+    "runtime-main.js": "/Robot5o/static/js/runtime-main.f2906fa2.js",
+    "runtime-main.js.map": "/Robot5o/static/js/runtime-main.f2906fa2.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robot5o/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8a0c8a4b.chunk.js": "/Robot5o/static/js/2.8a0c8a4b.chunk.js",
+    "static/js/2.8a0c8a4b.chunk.js.map": "/Robot5o/static/js/2.8a0c8a4b.chunk.js.map",
+    "index.html": "/Robot5o/index.html",
+    "precache-manifest.f73bf33031db494ad740f2785c89f953.js": "/Robot5o/precache-manifest.f73bf33031db494ad740f2785c89f953.js",
+    "service-worker.js": "/Robot5o/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robot5o/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.28a3a540.chunk.css.map": "/Robot5o/static/css/main.28a3a540.chunk.css.map",
+    "static/js/2.8a0c8a4b.chunk.js.LICENSE.txt": "/Robot5o/static/js/2.8a0c8a4b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robot5o/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2906fa2.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8a0c8a4b.chunk.js",
+    "static/css/main.28a3a540.chunk.css",
+    "static/js/main.69d96883.chunk.js"
+  ]
+}
