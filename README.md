@@ -21,3 +21,8 @@ Create a Pull Request
 ## Bug / Feature Request
 If you find a bug or you'd like to request a new function, kindly open an issue feel free to do so by opening an issue [here](https://github.com/ayush-020198/Robot5o/issues/new).\
 Please include sample queries and their corresponding results.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
